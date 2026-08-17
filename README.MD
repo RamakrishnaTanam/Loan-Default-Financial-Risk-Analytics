@@ -40,7 +40,7 @@ Power BI Service
     ↓
 Scheduled Refresh + Incremental Refresh
 
-
+---
 📥 Data Pipeline
 1. SQL Server
 

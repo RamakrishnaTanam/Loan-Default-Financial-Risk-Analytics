@@ -26,8 +26,6 @@ The solution was developed as an **end-to-end BI workflow**, from data ingestion
 
 > **End-to-end Data Analytics project using SQL Server, Power BI Dataflows, Power Query, DAX and Power BI Service to analyze loan portfolio performance, borrower demographics and financial risk.**
 
----
-
 ## 🎯 Business Problem
 
 A financial organization needs to understand its loan portfolio, borrower characteristics and potential financial risk.
@@ -66,9 +64,7 @@ Power BI Service
     ↓
 Scheduled Refresh + Incremental Refresh
 
----
 
----
 📥 Data Pipeline
 1. SQL Server
 
@@ -99,8 +95,6 @@ Gateway
 Scheduled refresh
 Incremental refresh
 Report sharing
-
----
 
 ---
 📊 Dashboard

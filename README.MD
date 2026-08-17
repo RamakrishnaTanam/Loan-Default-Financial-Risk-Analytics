@@ -21,7 +21,7 @@ The objective of this project was to build an interactive analytics solution tha
 The solution was developed as an **end-to-end BI workflow**, from data ingestion and preparation to analysis, visualization, validation and deployment.
 
 ## 🏗️ End-to-End Architecture
-
+```text
 SQL Server
     ↓
 Power BI Dataflow

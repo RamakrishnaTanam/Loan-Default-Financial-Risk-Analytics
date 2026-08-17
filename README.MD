@@ -1,8 +1,7 @@
 # 📊 Loan Default & Financial Risk Analytics
 
-> **End-to-end Data Analytics project using SQL Server, Power BI Dataflows, Power Query, DAX and Power BI Service to analyze loan portfolio performance, borrower demographics and financial risk.**
+End-to-end Data Analytics project using SQL Server, Power BI Dataflows, Power Query, DAX and Power BI Service to analyze loan portfolio performance, borrower demographics and financial risk
 
----
 
 ## 🎯 Business Problem
 
@@ -21,8 +20,6 @@ The objective of this project was to build an interactive analytics solution tha
 - Year-to-Date loan exposure
 
 The solution was developed as an **end-to-end BI workflow**, from data ingestion and preparation to analysis, visualization, validation and deployment.
-
----
 
 ---
 # 📊 Loan Default & Financial Risk Analytics

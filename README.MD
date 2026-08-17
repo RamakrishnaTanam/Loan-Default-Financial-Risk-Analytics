@@ -40,10 +40,10 @@ Power BI Service
     ↓
 Scheduled Refresh + Incremental Refresh
 
-
-
+---
 
 ## End-to-End Workflow
+```text
 
 This project demonstrates the complete journey from raw data to a business-ready analytics solution:
 

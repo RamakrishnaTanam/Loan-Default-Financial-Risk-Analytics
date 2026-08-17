@@ -40,10 +40,9 @@ Power BI Service
     ↓
 Scheduled Refresh + Incremental Refresh
 
----text
 
----
-📥 Data Pipeline
+
+##  📥 Data Pipeline
 1. SQL Server
 
 The loan dataset was imported into Microsoft SQL Server as the source layer.

@@ -22,15 +22,15 @@ The solution was developed as an **end-to-end BI workflow**, from data ingestion
 
 
 ## 🔄 Data Pipeline
-1. SQL Server
 
+# 1. SQL Server
 The loan dataset was imported into Microsoft SQL Server as the source layer.
 
-2. Power BI Dataflow
+#2. Power BI Dataflow
 
 A Power BI Dataflow was created to provide a reusable cloud-based data preparation layer.
 
-3. Power Query
+#3. Power Query
 
 The dataset was inspected and prepared using Power Query, including:
 
@@ -39,7 +39,8 @@ Data profiling
 Column inspection
 Data preparation
 Dataset understanding
-4. Power BI Desktop
+
+# 4. Power BI Desktop
 
 The prepared data was imported from the Dataflow into Power BI Desktop.
 
@@ -50,7 +51,8 @@ DAX measures
 Interactive visualizations
 Filters and analytical segmentation
 Time-based analysis
-5. Power BI Service
+
+# 5. Power BI Service
 
 The completed report was published to Power BI Service and configured with:
 
